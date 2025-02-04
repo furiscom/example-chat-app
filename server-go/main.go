@@ -29,7 +29,7 @@ import (
 	"google.golang.org/api/option"
 )
 
-const modelName = "gemini-1.5-flash"
+const modelName = "gemini-1.5-pro"
 const defaultPort = "9000"
 
 // Server state holding the context of the Gemini client and the generative model.
